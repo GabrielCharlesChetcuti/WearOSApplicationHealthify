@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063739693973",
+    "project_id": "healthify-2b416",
+    "storage_bucket": "healthify-2b416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063739693973:android:81854fe207bef91a7ef49c",
+        "android_client_info": {
+          "package_name": "com.example.android.wearable.composeforwearos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063739693973-e0qp2mr7b96rbnpit8p159uok97tmf1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKbioP2Cs58VnjThvWG5jKetQZbD8UFA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063739693973-e0qp2mr7b96rbnpit8p159uok97tmf1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
